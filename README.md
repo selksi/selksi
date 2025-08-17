@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Atualmente estou no terceiro semestre do curso de Engenharia de Software, onde tive a oportunidade de aprender as bases de programação em **Python** e **C** através de exercícios de lógica. Por iniciativa própria, também me dediquei ao estudo dos fundamentos de **HTML**, **CSS** e **JavaScript**.
+Atualmente estou no quarto semestre do curso de Engenharia de Software, onde tive a oportunidade de aprender as bases de programação em **Python** e **C** através de exercícios de lógica. Por iniciativa própria, também me dediquei ao estudo dos fundamentos de **HTML**, **CSS** e **JavaScript**.
 
 Tenho grande interesse na área de **QA (Quality Assurance)**, buscando entender e aplicar práticas de qualidade em software para garantir produtos mais robustos e confiáveis.
 
