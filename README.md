@@ -13,6 +13,7 @@ Ainda não desenvolvi projetos pessoais ou acadêmicos de grande destaque, mas e
 ## Habilidades
 
 - **Python** e **C** (lógica de programação)
+- **Java** (Orientação a Objetos)
 - **HTML**, **CSS** e **JavaScript** (básico)
 - Desenvolvimento web e novas tecnologias
 
