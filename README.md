@@ -5,10 +5,10 @@
 
 ## Sobre Mim
 
-Atualmente estou no quarto semestre do curso de Engenharia de Software, onde tive a oportunidade de aprender as bases de programação em **Python** e **C** através de exercícios de lógica. Por iniciativa própria, também me dediquei ao estudo dos fundamentos de **HTML**, **CSS** e **JavaScript**.
+Atualmente estou no quarto semestre do curso de Engenharia de Software, onde tive a oportunidade de aprender as bases de programação em **Python** e **C** através de exercícios de lógica. Além de programção orientada a objetos em **Java**. Por iniciativa própria, também me dediquei ao estudo dos fundamentos de **HTML**, **CSS** e **JavaScript**.
 
 
-Ainda não desenvolvi projetos pessoais ou acadêmicos de grande destaque, mas estou constantemente em busca de novos desafios para expandir meus conhecimentos e contribuir para a comunidade de tecnologia.
+Na disciplina de Orientação a objetos tive a oportunidade de criar o protótipo de um sistema de mobilidade urbana(ride sharing).
 
 ## Habilidades
 
@@ -26,7 +26,7 @@ Ainda não desenvolvi projetos pessoais ou acadêmicos de grande destaque, mas e
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/samuel-carvalho-404072324)
+- [LinkedIn](https://www.linkedin.com/in/samuelsoftw/)
 
 ---
 
