@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Samuel Carvalho
+# Samuel Carvalho
 
 🎓 **Estudante de Engenharia de Software** na Universidade de Brasília (UnB)  
 💻 Aprendendo e aprimorando habilidades em programação e desenvolvimento de software.
@@ -7,12 +7,19 @@
 
 Sou estudante de Engenharia de Software na UnB, onde tive a oportunidade de aprender as bases de programação em **Python** e **C** através de exercícios de lógica. Além de programção orientada a objetos em **Java**. 
 
-Na disciplina de Orientação a objetos tive a oportunidade de criar o protótipo de um sistema de mobilidade urbana(ride sharing).
+## 🚀 Habilidades
 
-## Habilidades
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</p>
 
-- **Python** e **C** (lógica de programação)
-- **Java** (Orientação a Objetos)
+## 📚 Atualmente estudando
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+Spring Boot (backend com Java) e Versionamento com Git e GitHub
 
 ## Objetivos
 
@@ -26,4 +33,5 @@ Na disciplina de Orientação a objetos tive a oportunidade de criar o protótip
 
 ---
 
+*Em constante aprendizado e aberto a novas oportunidades!*
 *Em constante aprendizado e aberto a novas oportunidades!*
