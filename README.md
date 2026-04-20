@@ -35,4 +35,3 @@ Spring Boot (backend com Java) e Versionamento com Git e GitHub
 ---
 
 *Em constante aprendizado e aberto a novas oportunidades!*
-*Em constante aprendizado e aberto a novas oportunidades!*
