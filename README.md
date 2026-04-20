@@ -30,6 +30,7 @@ Spring Boot (backend com Java) e Versionamento com Git e GitHub
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/samuelsoftw/)
+- [samuelcarvalho0201@outlook.com](mailto:samuelcarvalho0201@outlook.com)
 
 ---
 
