@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou estudante de Engenharia de Software na UnB, onde tive a oportunidade de aprender as bases de programação em **Python** e **C** através de exercícios de lógica. Além de programação orientada a objetos em **Java**. 
+Sou estudante de Engenharia de Software na UnB, onde tive a oportunidade de aprender as bases de programação em **Python** e **C** através de exercícios de lógica e estrutura de dados. Além de programação orientada a objetos em **Java**. 
 
 Atualmente, atuo como estagiário no **Serviço de Limpeza Urbana (SLU)**, onde trabalho no desenvolvimento e manutenção de sistemas utilizando **PHP** e o framework **Laravel**.
 
